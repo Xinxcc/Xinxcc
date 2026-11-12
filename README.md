@@ -21,7 +21,7 @@ Background: M.Sc. Electrical Engineering & Information Technology (Automation), 
 | **[AIModule-Next](https://github.com/Xinxcc/aimodule-next)** — ML training-platform architecture | System design / full-stack / API contracts | Tauri (Rust), React/TS, FastAPI, WebSocket |
 | **[Local RAG Service](https://github.com/Xinxcc/llm-rag-local)** — on-prem retrieval-augmented Q&A | LLM application engineering, vector search | FastAPI, Ollama, Qdrant, Docker Compose |
 | **Neuroevolution + AutoML + Active Learning** | Evolutionary optimization, AutoML, uncertainty | TensorFlow/Keras, AutoKeras, genetic algorithms |
-| **[3D Motion-Quality Analysis](https://github.com/Xinxcc/motion-quality-3d)** (M.Sc. thesis) | Computer vision + multi-view geometry + ML | OpenCV, MediaPipe, scikit-learn |
+| **[3D Motion-Quality Analysis](https://github.com/Xinxcc/motion-quality-3d)** | Computer vision + multi-view geometry + ML | OpenCV, MediaPipe, scikit-learn |
 | **[ECG Atrial-Fibrillation Detection](https://github.com/Xinxcc/ecg-arrhythmia-seresnet)** | Deep learning on biosignals | TensorFlow/Keras (SE-ResNet) |
 
 See [`projects/`](./projects) for one-page write-ups of each.
